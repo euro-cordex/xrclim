@@ -16,7 +16,7 @@ xrclim
 
 
 
-xrclim implements common climate data operators using the power of xarray.
+xrclim is supposed to test implementations of common climate data operators using the power of xarray.
 
 
 * Free software: MIT license
